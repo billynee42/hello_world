@@ -1,2 +1,4 @@
 # hello_world
-First One!
+
+Hello, Don't really know what I''m doing. I think it will become more clear 
+as I continue to experiment. We'll see...
